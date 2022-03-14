@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carbonspace/portfolio/static/css/main.6f8131b8.css",
+    "main.js": "/carbonspace/portfolio/static/js/main.ac377edb.js",
+    "index.html": "/carbonspace/portfolio/index.html",
+    "main.6f8131b8.css.map": "/carbonspace/portfolio/static/css/main.6f8131b8.css.map",
+    "main.ac377edb.js.map": "/carbonspace/portfolio/static/js/main.ac377edb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f8131b8.css",
+    "static/js/main.ac377edb.js"
+  ]
+}
